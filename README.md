@@ -39,7 +39,30 @@ where `PATH_TO_ENCAS` is the path where you cloned ENCAS (e.g. `"/export/scratch
 If you found this implementation helpful, please consider citing the following papers:
 
 MO-GOMEA:
+```
+@inproceedings{luong2014multi,
+  title={Multi-objective gene-pool optimal mixing evolutionary algorithms},
+  author={Luong, Ngoc Hoang and La Poutr{\'e}, Han and Bosman, Peter A N},
+  booktitle={Proceedings of the 2014 Annual Conference on Genetic and Evolutionary Computation},
+  pages={357--364},
+  year={2014}
+}
+```
 
 ENCAS:
-
-
+```
+@inproceedings{10.1145/3512290.3528749,
+	author = {Chebykin, Alexander and Alderliesten, Tanja and Bosman, Peter A. N.},
+	title = {Evolutionary Neural Cascade Search across Supernetworks},
+	year = {2022},
+	isbn = {9781450392372},
+	publisher = {Association for Computing Machinery},
+	address = {New York, NY, USA},
+	url = {https://doi.org/10.1145/3512290.3528749},
+	doi = {10.1145/3512290.3528749},
+	booktitle = {Proceedings of the Genetic and Evolutionary Computation Conference},
+	pages = {1038–1047},
+	numpages = {10},
+	series = {GECCO '22}
+}
+```
